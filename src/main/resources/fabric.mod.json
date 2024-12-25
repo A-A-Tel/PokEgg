@@ -3,9 +3,9 @@
 	"id": "pokegg",
 	"version": "${version}",
 	"name": "pokegg",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "placeholder",
 	"authors": [
-		"Me!"
+		"Anthony"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
